@@ -2,4 +2,4 @@ My first project using HTML and CSS. Tried to clone the homepage of Myntra websi
 
    -This is how the page looks like-
 
-   ![image alt](https://github.com/Shimanto2678/Frontend-Journey/blob/17f0a8e9b46dddaf8fa0ec6135a58250c4e29dda/CSS/MYNTRA%20CLONE/Screenshot%20(132).png)
+   ![image alt](https://github.com/Shimanto2678/Frontend-Journey/blob/44e6e212696896410db9dfe76f636aab2bf899cb/CSS/MYNTRA%20CLONE/Screenshot%20(130).png)
